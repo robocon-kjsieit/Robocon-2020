@@ -6,11 +6,11 @@ The ABU Robocon 2020 Suva contest is to play rugby 7’s game using two robots a
 
 Following is the YouTube Video link of Task Completion of Our Project
 
-https://www.youtube.com/watch?v=ff_yKyd960A&t=37s
+[![](http://img.youtube.com/vi/ff_yKyd960A/0.jpg)](http://www.youtube.com/watch?v=ff_yKyd960A "")
 
 Following is the YouTube video link of Prototypes done by us
 
-video: https://www.youtube.com/embed/q_G5udl1SUE
+[![](http://img.youtube.com/vi/q_G5udl1SUE/0.jpg)](http://www.youtube.com/watch?v=q_G5udl1SUE "")
 
 
 
