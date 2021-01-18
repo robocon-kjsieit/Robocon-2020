@@ -10,8 +10,7 @@ https://www.youtube.com/watch?v=ff_yKyd960A&t=37s
 
 Following is the YouTube video link of Prototypes done by us
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q_G5udl1SUE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+video:"https://www.youtube.com/embed/q_G5udl1SUE"
 
 
 
